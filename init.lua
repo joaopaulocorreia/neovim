@@ -1,3 +1,4 @@
+require('helpers')
 require('autoload')
 require('options')
 require('keymap')
